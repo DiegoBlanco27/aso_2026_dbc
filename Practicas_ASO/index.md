@@ -2,7 +2,7 @@
 
 ## Administracion de Sistemas Informaticos en Red
 
-Esto es texto normal. Puedo poner **negrita** y *cursiva*y ***negrita cursiva***
+Esto es texto normal. Puedo poner **negrita** y *cursiva* y ***negrita cursiva***
 
 Imprimimos en Python con `print()`.
 
