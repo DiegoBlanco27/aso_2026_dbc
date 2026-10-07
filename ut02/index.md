@@ -2,7 +2,7 @@
 
 ## Practicas
 
-- [Practica 1](/ut02/pr0201/)  
-- [Practica 2](/ut02/pr0202/) 
+- [Practica 1](./pr0201/pr0201.md)  
+- [Practica 2](./pr0202/pr0202.md) 
 
-[Volver al inicio](/)
+[Volver al inicio](./)
