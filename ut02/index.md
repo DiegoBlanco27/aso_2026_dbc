@@ -2,7 +2,7 @@
 
 ## Practicas
 
-- [Practica 1](pr0201/pr0201.md)  
-- [Practica 2](pr0202/pr0202.md) 
+- [Practica 1](/ut02/pr0201/pr0201.md)  
+- [Practica 2](/ut02/pr0202/pr0202.md) 
 
-[Volver al inicio](/aso_2026_dbc/index.md)
+[Volver al inicio](/index.md)
