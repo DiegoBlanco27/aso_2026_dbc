@@ -2,6 +2,6 @@
 
 ## Practicas
 
-- [Practica 1](/ut03/pr0301/pr0301.md)  
+- [Practica 1](/ut03/pr0301/)  
 
-[Volver al inicio](/index.md)
+[Volver al inicio](/)

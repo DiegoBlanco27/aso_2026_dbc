@@ -93,4 +93,4 @@ Y ya nos podremos conectar de forma remota sin introducir credenciales a SERVER-
    - **hosts.allow** define quién sí puede entrar.
    - **hosts.deny** define quién no puede entrar
 
-[Volver al indice de la unidad](/ut02/index.md) 
+[Volver al indice de la unidad](/ut02/) 
