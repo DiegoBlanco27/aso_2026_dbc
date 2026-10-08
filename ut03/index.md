@@ -4,4 +4,4 @@
 
 - [Practica 1](./pr0301/pr0301.md)  
 
-[Volver al inicio](/index.md)
+[Volver al inicio](./../index.md)

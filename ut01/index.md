@@ -2,4 +2,4 @@
 
 ## Practicas
 
-[Volver al inicio](/index.md)
+[Volver al inicio](./../index.md)
