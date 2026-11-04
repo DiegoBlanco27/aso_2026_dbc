@@ -1,17 +1,10 @@
-$fechaActual = Get-Date
+$codigoActivo = "SRV-2026-PROD-99"
 
-Write-Host "El ano actual es: $($fechaActual.Year)"
+$like = $codigoActivo -like "SRV*"
+Write-Host "¿Empieza por SRV?: $like"
 
-$fechaCaducidad = $fechaActual.AddDays(45)
-Write-Host "La contrasena caducara el: $fechaCaducidad"
+$numeros = $codigoActivo -match "\d"
+Write-Host "¿Contiene algun digito numerico?: $numeros"
 
-
-$inicio = Get-Date
-
-Start-Sleep -Seconds 3
-
-$fin = Get-Date
-
-[TimeSpan]$tiempoTotal = $fin - $inicio
-
-Write-Host "Tiempo total transcurrido: $($tiempoTotal.TotalSeconds) segundos"
+$x = $codigoActivo -replace "\d", "X"
+Write-Host "Codigo modificado: $x"
