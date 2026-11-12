@@ -1,0 +1,6 @@
+$inventarioCrudo = @"
+DEV-01 | MAC:00-1A-2B-3C-4D-5E | RAM:512MB | SN:a1b2 | STATUS:ACTIVE
+switch_core_02 | MAC:001a.2b3c.4d5f | RAM:2GB | SN:X9Y8Z | STATUS:MAINTENANCE
+router-edge-03 | MAC:00-1A-2B-3C-4D-60 | RAM:1024MB | SN:f4e3d2 | STATUS:ACTIVE
+core_switch_04 | MAC:00:1a:2b:3c:4d:61 | RAM:4GB | SN:7m8n | STATUS:RETIRED
+"@
