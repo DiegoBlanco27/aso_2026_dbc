@@ -1,0 +1,4 @@
+﻿"Dispositivo","MAC","RAM","SerialNumber","Status"
+"dev-01","00:1A:2B:3C:4D:5E","512MB","00A1B2","ACTIVE"
+"switch-core-02","00:1A:2B:3C:4D:5F","2GB","0X9Y8Z","MAINTENANCE"
+"router-edge-03","00:1A:2B:3C:4D:60","1024MB","F4E3D2","ACTIVE"
