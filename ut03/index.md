@@ -14,5 +14,7 @@
 - Dar permisos de ejecucion del script: ```chmod +x script.sh```
 - Ejecutar el script: ```./script.sh```
 - Para abrirlo/ejecutarlo con permisos de administrador hay que añadir ```sudo``` al principio
+- Pasar un script de linux a Windows:
+  - Desde el Windows: ```scp diego@10.201.59.101:~/gestion_dir.sh C:\Users\diego.blacor```
 
 [Volver al inicio](./../index.md)
